@@ -7,5 +7,4 @@
 📫 You can find me @ the following places:
 
 - ArtStation: https://www.artstation.com/aryntaylor
-- YouTube: 
 - LinkedIn: https://www.linkedin.com/in/aryn-taylor-a563a4201/
