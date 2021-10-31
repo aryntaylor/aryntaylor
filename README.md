@@ -1,4 +1,4 @@
-👋 Hi, I’m Aryn Taylor. I'm 18. I'm from Northern Ireland.
+👋 Hi, I’m Aryn Taylor. I'm 19. I'm from Northern Ireland.
 
 👀 I’m interested in 3D modelling and sculpting, visual scripting (eg, UE Blueprints), graphic design, level art, UX/UI design, and so on.
 
