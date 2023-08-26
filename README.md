@@ -1,10 +1,8 @@
-👋 Hi, I’m Aryn Taylor. I'm 20. I'm from Northern Ireland.
+I am become programmer, the writer of code...
 
-👀 I’m interested in 3D modelling and sculpting, visual scripting (eg, UE Blueprints), graphic design, level art, UX/UI design, and so on.
+Pipeline Developer @ Oliver Agency.
 
-🌱 I’m currently studying Pearson BTEC Level 5 HND in Creative Media Production (Game Development) @ Belfast Metropolitan College.
-
-📫 You can find me @ the following places:
+Socials/Important Links:
 
 - ArtStation: https://www.artstation.com/aryntaylor
 - LinkedIn: https://www.linkedin.com/in/aryn-taylor-a563a4201/
